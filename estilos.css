@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    background-color: gray;
+    font-family: arial;
+}
+
+
+
+
+
+
+.header {
+    background-color: red;
+    height: 180px;
+    color:white;
+    font-size: 70px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+
+.caixabranca {
+    background-color: white;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+
+
+
+.caixabranca .pagina {
+    background-color: gray;
+    height: 220px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 32px;
+}
+
+
+
+
+.rodape {
+    background-color: darkblue;
+    height: 30px;
+    color: white;
+    font-size: 18px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
